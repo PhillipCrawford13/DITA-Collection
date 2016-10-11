@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_eds_2fv_4x">
+    <title>Javier catch the bus to class ya bum</title>
+    <shortdesc>The bus is the only transportation to campus for Javier.</shortdesc>
+    <taskbody>
+        <context>Javier will need to be on his game to catch the bus and make it to campus.
+            <p/></context>
+        <steps>
+            <step>
+                <cmd>Go outside 5 minutes before the listed time for the bus arrival.</cmd>
+            </step>
+            <step>
+                <cmd>Ensure you are catching the right bus, look for MSS</cmd>
+            </step>
+            <step>
+                <cmd>Present your Hokie Passport to the driver to gain entry to the bus.</cmd>
+            </step>
+            <step>
+                <cmd>Ride the bus to your appropriate spot in front of squires and exit to walk to
+                    class. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

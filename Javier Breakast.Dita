@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bwf_d1v_4x">
+    <title>Javier Needs to Eat Breakfast </title>
+    <shortdesc>Javier needs to start off his day with a healthy breakfast. </shortdesc>
+    <taskbody>
+        <context>A healthy breakfast is key for any striving Hokie.  Javier is no
+            different!<p/></context>
+        <steps>
+            <step>
+                <cmd>Get off the couch and go to the fridge.</cmd>
+            </step>
+            <step>
+                <cmd>Select from either the yogurt, milk for cereal, or the leftover pizza.</cmd>
+            </step>
+            <step>
+                <cmd>You obviously chose the pizza, heat that bad boy up in the microwave.</cmd>
+            </step>
+            <step>
+                <cmd>Get a paper towel from under the sink so we don't dirty dishes.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
